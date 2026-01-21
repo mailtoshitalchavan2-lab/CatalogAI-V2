@@ -1,0 +1,7 @@
+{
+  "name": "CatlogAi V2 – AI Product Photoshoot Generator",
+  "description": "Transform simple product photos into professional-grade studio shots using Gemini's advanced image generation and editing capabilities. Ideal for e-commerce, social media, and catalog creation.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
